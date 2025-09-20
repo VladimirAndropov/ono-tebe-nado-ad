@@ -1,1 +1,1 @@
-https://github.com/VladimirAndropov/ono-tebe-nado-fd
+https://github.com/VladimirAndropov/ono-tebe-nado-ad
