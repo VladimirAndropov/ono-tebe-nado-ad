@@ -19,9 +19,11 @@
   text-underline-position: from-font;
   list-style: circle;
 }
+
 .header_logo-image { 
     width: 148px;
 }
+
 .header__links-list-item_no-bullit {
   list-style-type: none;
 }
