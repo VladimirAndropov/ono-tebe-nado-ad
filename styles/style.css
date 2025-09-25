@@ -28,6 +28,11 @@
   text-decoration: none;
 }
 
+.header_logo {
+  width: 148px;
+  opacity: 100%;
+}
+
 .address {
   width: 240px;
   font-family: "Raleway", sans-serif;
@@ -51,6 +56,7 @@
 /* ------------------------------------------------------ */
 
 .cover {
+  margin-top: 29px;
   position: relative;
   z-index: 0;
   box-sizing: border-box;
@@ -148,7 +154,7 @@
 /* ----------------------------------------------------- */
 
 .lots {
-  margin-top: 180px;
+  margin-top: 150px;
   padding: 0 24px;
 }
 
