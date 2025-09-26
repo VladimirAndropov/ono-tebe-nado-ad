@@ -33,6 +33,10 @@
   opacity: 100%;
 }
 
+.header_logo-image{
+  padding: 7px 7px;
+}
+
 .address {
   width: 240px;
   font-family: "Raleway", sans-serif;
@@ -270,6 +274,10 @@
   background-color: #000000;
 }
 
+.about__logo-image{
+  padding: 50px 50px;
+}
+
 .about__title {
   margin-bottom: 100px;
   font-family: "Raleway", sans-serif;
@@ -297,6 +305,7 @@
   text-align: left;
   text-decoration-skip-ink: none;
   text-underline-position: from-font;
+  padding-top: 2px;
 }
 
 .about_text-bottom {
@@ -339,6 +348,10 @@
   justify-content: end;
   gap: 48px;
   list-style-type: none;
+}
+
+.footer__social-icon{
+  height:48px;
 }
 
 .address.footer__address {
