@@ -33,7 +33,7 @@
   opacity: 100%;
 }
 
-.header_logo-image{
+.header_logo-image {
   padding: 7px 7px;
 }
 
@@ -274,7 +274,7 @@
   background-color: #000000;
 }
 
-.about__logo-image{
+.about__logo-image {
   padding: 50px 50px;
 }
 
@@ -350,7 +350,7 @@
   list-style-type: none;
 }
 
-.footer__social-icon{
+.footer__social-icon {
   height:48px;
 }
 
