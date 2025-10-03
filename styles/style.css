@@ -76,13 +76,13 @@
   font-weight: 700;
   font-size: 100px;
   line-height: 130px;
-  letter-spacing: 0.3em;
   text-decoration-skip-ink: none;
   text-underline-position: from-font;
   text-transform: uppercase;
 }
 
 .no-letter-spacing {
+  letter-spacing: 0.3em;
 }
 
 .accent-span {
